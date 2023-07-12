@@ -1,0 +1,167 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 30/11/2020 05:59
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("Flaticon.eot");
+  src: url("Flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("Flaticon.html") format("woff2"),
+       url("Flaticon.woff") format("woff"),
+       url("Flaticon.ttf") format("truetype"),
+       url("Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="thsn-doctery-icon-"]:before, [class*=" thsn-doctery-icon-"]:before,
+[class^="thsn-doctery-icon-"]:after, [class*=" thsn-doctery-icon-"]:after {   
+  font-family: Flaticon;
+font-style: normal;
+}
+
+.thsn-doctery-icon-plastic-surgery:before { content: "\f100"; }
+.thsn-doctery-icon-doctor:before { content: "\f101"; }
+.thsn-doctery-icon-doctor-1:before { content: "\f102"; }
+.thsn-doctery-icon-calendar:before { content: "\f103"; }
+.thsn-doctery-icon-nose:before { content: "\f104"; }
+.thsn-doctery-icon-ear:before { content: "\f105"; }
+.thsn-doctery-icon-brain:before { content: "\f106"; }
+.thsn-doctery-icon-tooth:before { content: "\f107"; }
+.thsn-doctery-icon-pimples:before { content: "\f108"; }
+.thsn-doctery-icon-fetus:before { content: "\f109"; }
+.thsn-doctery-icon-headache:before { content: "\f10a"; }
+.thsn-doctery-icon-heart:before { content: "\f10b"; }
+.thsn-doctery-icon-smile:before { content: "\f10c"; }
+.thsn-doctery-icon-sore-throat:before { content: "\f10d"; }
+.thsn-doctery-icon-dentist:before { content: "\f10e"; }
+.thsn-doctery-icon-mask:before { content: "\f10f"; }
+.thsn-doctery-icon-blood-transfusion:before { content: "\f110"; }
+.thsn-doctery-icon-urine:before { content: "\f111"; }
+.thsn-doctery-icon-fertilization:before { content: "\f112"; }
+.thsn-doctery-icon-pills:before { content: "\f113"; }
+.thsn-doctery-icon-nose-1:before { content: "\f114"; }
+.thsn-doctery-icon-deaf:before { content: "\f115"; }
+.thsn-doctery-icon-compress:before { content: "\f116"; }
+.thsn-doctery-icon-inhaler:before { content: "\f117"; }
+.thsn-doctery-icon-liver:before { content: "\f118"; }
+.thsn-doctery-icon-bonnet:before { content: "\f119"; }
+.thsn-doctery-icon-dentist-tools:before { content: "\f11a"; }
+.thsn-doctery-icon-pills-1:before { content: "\f11b"; }
+.thsn-doctery-icon-toothbrush:before { content: "\f11c"; }
+.thsn-doctery-icon-medicine:before { content: "\f11d"; }
+.thsn-doctery-icon-brackets:before { content: "\f11e"; }
+.thsn-doctery-icon-tooth-1:before { content: "\f11f"; }
+.thsn-doctery-icon-breasts:before { content: "\f120"; }
+.thsn-doctery-icon-kidney:before { content: "\f121"; }
+.thsn-doctery-icon-colon:before { content: "\f122"; }
+.thsn-doctery-icon-lips:before { content: "\f123"; }
+.thsn-doctery-icon-prothesis:before { content: "\f124"; }
+.thsn-doctery-icon-sperm:before { content: "\f125"; }
+.thsn-doctery-icon-hospital:before { content: "\f126"; }
+.thsn-doctery-icon-stomach:before { content: "\f127"; }
+.thsn-doctery-icon-lungs:before { content: "\f128"; }
+.thsn-doctery-icon-sperm-1:before { content: "\f129"; }
+.thsn-doctery-icon-ultrasonography:before { content: "\f12a"; }
+.thsn-doctery-icon-ampoul:before { content: "\f12b"; }
+.thsn-doctery-icon-pregnancy-test:before { content: "\f12c"; }
+.thsn-doctery-icon-uterus:before { content: "\f12d"; }
+.thsn-doctery-icon-medicine-1:before { content: "\f12e"; }
+.thsn-doctery-icon-hospital-bed:before { content: "\f12f"; }
+.thsn-doctery-icon-syringe:before { content: "\f130"; }
+.thsn-doctery-icon-blind:before { content: "\f131"; }
+.thsn-doctery-icon-ambulance:before { content: "\f132"; }
+.thsn-doctery-icon-cardiogram:before { content: "\f133"; }
+.thsn-doctery-icon-stethoscope:before { content: "\f134"; }
+.thsn-doctery-icon-scalpel:before { content: "\f135"; }
+.thsn-doctery-icon-medicine-2:before { content: "\f136"; }
+.thsn-doctery-icon-sample:before { content: "\f137"; }
+.thsn-doctery-icon-hair:before { content: "\f138"; }
+.thsn-doctery-icon-first-aid-kit:before { content: "\f139"; }
+.thsn-doctery-icon-eye:before { content: "\f13a"; }
+.thsn-doctery-icon-injury:before { content: "\f13b"; }
+.thsn-doctery-icon-crutch:before { content: "\f13c"; }
+.thsn-doctery-icon-oxygen:before { content: "\f13d"; }
+.thsn-doctery-icon-syringe-1:before { content: "\f13e"; }
+.thsn-doctery-icon-walker:before { content: "\f13f"; }
+.thsn-doctery-icon-stretcher:before { content: "\f140"; }
+.thsn-doctery-icon-hospital-1:before { content: "\f141"; }
+.thsn-doctery-icon-wheelchair:before { content: "\f142"; }
+.thsn-doctery-icon-dental-floss:before { content: "\f143"; }
+.thsn-doctery-icon-medicine-3:before { content: "\f144"; }
+.thsn-doctery-icon-defribillator:before { content: "\f145"; }
+.thsn-doctery-icon-tooth-2:before { content: "\f146"; }
+.thsn-doctery-icon-injury-1:before { content: "\f147"; }
+.thsn-doctery-icon-tonometer:before { content: "\f148"; }
+.thsn-doctery-icon-dental-drill:before { content: "\f149"; }
+.thsn-doctery-icon-pharmacy:before { content: "\f14a"; }
+.thsn-doctery-icon-optical:before { content: "\f14b"; }
+.thsn-doctery-icon-eye-drops:before { content: "\f14c"; }
+.thsn-doctery-icon-drop-counter:before { content: "\f14d"; }
+.thsn-doctery-icon-helicopter:before { content: "\f14e"; }
+.thsn-doctery-icon-ribbon:before { content: "\f14f"; }
+.thsn-doctery-icon-scissors:before { content: "\f150"; }
+.thsn-doctery-icon-tongs:before { content: "\f151"; }
+.thsn-doctery-icon-doctor-2:before { content: "\f152"; }
+.thsn-doctery-icon-medicine-4:before { content: "\f153"; }
+.thsn-doctery-icon-band-aid:before { content: "\f154"; }
+.thsn-doctery-icon-thermometer:before { content: "\f155"; }
+.thsn-doctery-icon-tablets:before { content: "\f156"; }
+.thsn-doctery-icon-edema:before { content: "\f157"; }
+.thsn-doctery-icon-medicine-5:before { content: "\f158"; }
+.thsn-doctery-icon-map:before { content: "\f159"; }
+.thsn-doctery-icon-smiling:before { content: "\f15a"; }
+.thsn-doctery-icon-pill:before { content: "\f15b"; }
+.thsn-doctery-icon-hospital-2:before { content: "\f15c"; }
+.thsn-doctery-icon-checked:before { content: "\f15d"; }
+.thsn-doctery-icon-hospital-bed-1:before { content: "\f15e"; }
+.thsn-doctery-icon-cardiogram-1:before { content: "\f15f"; }
+.thsn-doctery-icon-pills-2:before { content: "\f160"; }
+.thsn-doctery-icon-disinfection:before { content: "\f161"; }
+.thsn-doctery-icon-medical-research:before { content: "\f162"; }
+.thsn-doctery-icon-medical-equipment:before { content: "\f163"; }
+.thsn-doctery-icon-medical-laboratory:before { content: "\f164"; }
+.thsn-doctery-icon-panel:before { content: "\f165"; }
+.thsn-doctery-icon-thermometer-1:before { content: "\f166"; }
+.thsn-doctery-icon-equipment:before { content: "\f167"; }
+.thsn-doctery-icon-radiotherapy:before { content: "\f168"; }
+.thsn-doctery-icon-serum:before { content: "\f169"; }
+.thsn-doctery-icon-first-aid-kit-1:before { content: "\f16a"; }
+.thsn-doctery-icon-blood:before { content: "\f16b"; }
+.thsn-doctery-icon-dropper:before { content: "\f16c"; }
+.thsn-doctery-icon-mri:before { content: "\f16d"; }
+.thsn-doctery-icon-angiography:before { content: "\f16e"; }
+.thsn-doctery-icon-mri-1:before { content: "\f16f"; }
+.thsn-doctery-icon-phone-call:before { content: "\f170"; }
+.thsn-doctery-icon-ambulance-1:before { content: "\f171"; }
+.thsn-doctery-icon-clock:before { content: "\f172"; }
+.thsn-doctery-icon-stethoscope-1:before { content: "\f173"; }
+.thsn-doctery-icon-loupe:before { content: "\f174"; }
+.thsn-doctery-icon-emergency-call:before { content: "\f175"; }
+.thsn-doctery-icon-emergency-call-1:before { content: "\f176"; }
+.thsn-doctery-icon-clipboard:before { content: "\f177"; }
+.thsn-doctery-icon-stethoscope-2:before { content: "\f178"; }
+.thsn-doctery-icon-email:before { content: "\f179"; }
+.thsn-doctery-icon-calendar-1:before { content: "\f17a"; }
+.thsn-doctery-icon-calendar-2:before { content: "\f17b"; }
+.thsn-doctery-icon-file:before { content: "\f17c"; }
+.thsn-doctery-icon-pdf:before { content: "\f17d"; }
+.thsn-doctery-icon-approved-signal:before { content: "\f17e"; }
+.thsn-doctery-icon-medal:before { content: "\f17f"; }
+.thsn-doctery-icon-patient:before { content: "\f180"; }
+.thsn-doctery-icon-information:before { content: "\f181"; }
+.thsn-doctery-icon-location:before { content: "\f182"; }
+.thsn-doctery-icon-pin:before { content: "\f183"; }
+.thsn-doctery-icon-award:before { content: "\f184"; }
+.thsn-doctery-icon-medal-1:before { content: "\f185"; }
+.thsn-doctery-icon-headphones:before { content: "\f186"; }
+.thsn-doctery-icon-question:before { content: "\f187"; }
+.thsn-doctery-icon-caduceus:before { content: "\f188"; }
